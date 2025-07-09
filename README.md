@@ -10,7 +10,7 @@
 <h1 align="center">Hi There, I'm Anthony Ettinger</h1>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-- 📫 Reach me @ anthony@chovy.com  
+- 📫 Reach me @ ettinger@gmail.com  
 
 - 🌱 I am currently building **web apps**.
 
