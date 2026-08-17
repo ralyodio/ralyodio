@@ -20,6 +20,8 @@
 
 - 📢 Take a look at my [resume](https://drive.google.com/file/d/1T48x6ond3m6BMAR1Q8pg9O3JvjUJFcIp/view?usp=sharing).
 
+- Read my blog: https://ralyodio.github.io/blog/
+
 
 ## 💻 Technical Skills:
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
