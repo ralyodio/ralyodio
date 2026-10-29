@@ -18,7 +18,9 @@
 
 - 💻 I love building stuff and contributing to open-source projects.
 
-- 📢 Take a look at my [resume](https://drive.google.com/file/d/1T48x6ond3m6BMAR1Q8pg9O3JvjUJFcIp/view?usp=sharing).
+- 🎙️ Listen to my podcast **Off The Record**: https://otr.podcast.pit.world
+
+- 📢 Take a look at my [resume](https://github.com/ralyodio/resume/blob/master/anthony.ettinger.resume6.pdf).
 
 - Read my blog: https://ralyodio.github.io/blog/
 
